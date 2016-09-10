@@ -1,0 +1,2 @@
+# vue-paginator
+vue paginator
